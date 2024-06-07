@@ -1,0 +1,23 @@
+.account {
+	display: flex;
+	align-items: center;
+	gap: 24px;
+
+	@include tablet {
+		gap: 12px;
+	}
+}
+
+.account__search {
+	@include mobile {
+		display: none;
+	}
+}
+
+.account__menu {
+	display: none;
+	
+	@include mobile {
+		display: block;
+	}
+}

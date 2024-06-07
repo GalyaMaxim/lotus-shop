@@ -1,0 +1,38 @@
+[
+	{
+		"img": "01",
+		"title": "CUSKIN CLEAN-UP",
+		"desc": "Крем для лица, 50 мл",
+		"price": "4920 р."
+	},
+	{
+		"img": "02",
+		"title": "CP-1 BC",
+		"desc": "Шампунь, 100 мл",
+		"price": "430 р."
+	},
+	{
+		"img": "03",
+		"title": "PSA RESET",
+		"desc": "Пенка для лица, 100 мл",
+		"price": "3500 р."
+	},
+	{
+		"img": "04",
+		"title": "ALLIES OF SKIN",
+		"desc": "Мист, 50 мл",
+		"price": "7700 р."
+	},
+	{
+		"img": "05",
+		"title": "Urban Eco",
+		"desc": "Тонер для лица, 180 мл",
+		"price": "1800 р."
+	},
+	{
+		"img": "06",
+		"title": "Sweet Thai",
+		"desc": "Гель для душа, 300 мл",
+		"price": "1100 р."
+	}
+]

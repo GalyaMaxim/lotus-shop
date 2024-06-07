@@ -1,0 +1,33 @@
+.swiper {
+	width: 100%;
+	padding-bottom: 32px !important;
+
+	@include mobile {
+		padding-bottom: 20px !important;
+	}
+}
+
+.swiper-pagination-bullet {
+	width: 10px !important;
+	height: 10px !important;
+	background-color: var(--color-light) !important;
+	opacity: 1 !important;
+
+	@include mobile {
+		width: 7px !important;
+		height: 7px !important;
+	}
+}
+
+.swiper-pagination-bullet-active {
+	background-color: var(--color-accent) !important;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+	margin-left: 8px !important;
+	margin-right: 8px !important;
+}
+
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal {
+	bottom: 0 !important;
+}
